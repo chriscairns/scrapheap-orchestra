@@ -3,6 +3,7 @@
 #include "Midi.h"
 #include "Arduino.h"
 
+//I'm going to ruin your software chaps!
 
 int midiByte0 = -1;
 int midiByte1  = -1;
